@@ -6,4 +6,4 @@ In order to see more details, you can download/clone the repository and simply o
 
 </br>
 Landing page
-
+![Homepage](https://github.com/Andrrew94/developer-website/blob/master/preview/preview1.JPG)
