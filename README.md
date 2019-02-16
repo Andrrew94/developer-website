@@ -8,3 +8,11 @@ In order to see more details, you can download/clone the repository and simply o
 Landing page
 
 ![Homepage](https://github.com/Andrrew94/developer-website/blob/master/preview/preview1.JPG)
+
+About page
+
+![About](https://github.com/Andrrew94/developer-website/blob/master/preview/preview2.JPG)
+
+Services page
+
+![Services](https://github.com/Andrrew94/developer-website/blob/master/preview/preview3.JPG)
